@@ -1,0 +1,41 @@
+{
+  "baseline": "RC13",
+  "candidate": "RC14",
+  "html_count": 43,
+  "local_references_checked": 2145,
+  "outcome_statements_checked": 35,
+  "formsubmit_forms": [
+    {
+      "page": "guides.html",
+      "action": "https://formsubmit.co/sales@corecloudza.com",
+      "cc": [
+        "mark@corecloudza.com"
+      ]
+    },
+    {
+      "page": "request-nda.html",
+      "action": "https://formsubmit.co/sales@corecloudza.com",
+      "cc": [
+        "mark@corecloudza.com"
+      ]
+    },
+    {
+      "page": "contact.html",
+      "action": "https://formsubmit.co/sales@corecloudza.com",
+      "cc": [
+        "mark@corecloudza.com"
+      ]
+    }
+  ],
+  "unchanged_css_js_assets": 15,
+  "changed_html": [
+    "index.html",
+    "how-corecloud-works.html",
+    "orchestrator.html",
+    "platforms.html",
+    "identity-security.html"
+  ],
+  "errors": [],
+  "rendered_browser_test": "NOT RUN",
+  "live_form_delivery": "NOT RUN"
+}

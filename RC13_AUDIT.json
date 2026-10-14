@@ -1,0 +1,75 @@
+{
+  "outcome_pages": 35,
+  "missing_outcomes": [],
+  "heading_anomalies": [],
+  "local_refs_checked": 2144,
+  "missing_local_targets": [],
+  "forms_before": [
+    [
+      "assess-sovereignty.html",
+      "",
+      ""
+    ],
+    [
+      "assess-ai-readiness.html",
+      "",
+      ""
+    ],
+    [
+      "guides.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "request-nda.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "assess-workload-venue.html",
+      "",
+      ""
+    ],
+    [
+      "contact.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ]
+  ],
+  "forms_after": [
+    [
+      "assess-sovereignty.html",
+      "",
+      ""
+    ],
+    [
+      "assess-ai-readiness.html",
+      "",
+      ""
+    ],
+    [
+      "guides.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "request-nda.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "assess-workload-venue.html",
+      "",
+      ""
+    ],
+    [
+      "contact.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ]
+  ],
+  "forms_preserved": true,
+  "warnings": [],
+  "source_js_files": 5,
+  "release_js_files": 5
+}
